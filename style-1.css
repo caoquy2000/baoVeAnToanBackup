@@ -2912,3 +2912,7 @@ mark{
 .bg-green {
   background-color: green !important;
 }
+.slide-img {
+  width: 100%;
+  /* height: 100vh; */
+}
